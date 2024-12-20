@@ -17,7 +17,7 @@ This project showcases object detection models implemented using Vision Transfor
 
 ### 1\. Object Detection using Vision Transformers
 
-Explore object detection with Vision Transformers: [Link to Kaggle Notebook](https://www.kaggle.com/code/mayankgbrc/vision-transformer-edit)
+Explore object detection with Vision Transformers: [Link to Kaggle Notebook](https://www.kaggle.com/code/mayankgbrc/object-detection-vit)
 
 ### 2\. Object Detection using YOLO
 
