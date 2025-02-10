@@ -1,4 +1,4 @@
-Object Detection
+Object Detection using Vision Transformers and YOLO
 ================
 
 This repository contains implementations for object detection using advanced deep learning techniques, including Vision Transformers and YOLO.
